@@ -4,18 +4,18 @@ Fine Tune BERT for Text Classification with TensorFlow
 
 DataSet 
 =============
-> <h2> the Quora Insincere Questions Dataset
+> <h5> the Quora Insincere Questions Dataset
 
 
 
 Tools
 ========
- - <h2> Google's Colab ( for GPU)
- - <h2> tensorflow
- - <h2> tensorlfow models offical repo
- - <h2> tensorflow_hub
- - <h2> numpy
- - <h2> pandas
+ - <h5> Google's Colab ( for GPU)
+ - <h5> tensorflow
+ - <h5> tensorlfow models offical repo
+ - <h5> tensorflow_hub
+ - <h5> numpy
+ - <h5> pandas
 
 Links 
 ========
